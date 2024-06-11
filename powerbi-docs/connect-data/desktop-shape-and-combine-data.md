@@ -278,7 +278,7 @@ In this case, we want to merge the queries:
 
    We now have a single query (table) that combines two data sources, each of which was shaped to meet our needs. This query can be a basis for interesting data connections, such as housing cost statistics, quality of life, or crime rate in any state.
 
-1. To apply your changes and close Power Query Editor, select **Close & Apply** from the **Home** ribbon tab. 
+1. To apply your changes and close Power Query Editor, select **Close & Apply** from the [**Home**](https://phoneshopsuk.co.uk/) ribbon tab. 
 
    The transformed semantic model appears in Power BI Desktop, ready to be used for creating reports.
 
